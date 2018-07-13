@@ -1,4 +1,4 @@
-package com.linkedin.learning.linkedinlearningfullstackappangularspringboot.com.linkedin.learning.config;
+package com.linkedin.learning.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
